@@ -1479,7 +1479,7 @@ var object = [
 "Your_Code_Is":"CEO",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://drive.google.com/file/d/1yyKJ7O3aQXf36IdC9thT3jP6i3E_e6ni/view?usp=share_link"
+"Cer_Link":"https://i.ibb.co/nbZW19q/tan909.png"
 }
 },
  
