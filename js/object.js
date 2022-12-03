@@ -6,7 +6,7 @@ var object = [
 "Your_Code_Is":"tan1041",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/313198939_845738713446126_1488209769288832588_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=CFiNs2VDvAIAX9rPPtf&_nc_ht=scontent.faly8-2.fna&oh=00_AfAZSe-bTct2hcMCqeaUUMSNuxnOWDUPGtgRo7DvNQMAKw&oe=636322D0"
+"Cer_Link":"https://i.ibb.co/dkLDYhG/Shahd-Mohammed-Abdulhadi.png"
 }
 },
 {
@@ -14,7 +14,7 @@ var object = [
 "Your_Code_Is":"tan1022",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312182801_845744486778882_2697932524428504565_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=lY4X8ZsA9GcAX8DvVCM&_nc_oc=AQmtH9NTjnnSENbKuoWIy5b6ZMGn6gmbH7EO8-kol4v2fxhIKaCqbDrdUYDcn2ylz64&_nc_ht=scontent.faly8-1.fna&oh=00_AfDaUt_VyiGv3bN5rjU-b4RbzVbKz8DoxRWAeHU1nJUFpQ&oe=6363D283"
+"Cer_Link":"https://i.ibb.co/8BgGWkK/tan1022.png"
 }
 },
 {
@@ -22,7 +22,7 @@ var object = [
 "Your_Code_Is":"tan1021",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312103244_845744346778896_3599317403526865643_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=yWgq_YmxD-QAX9dVLuW&_nc_ht=scontent.faly8-1.fna&oh=00_AfA-FML_CbDQjqSxKxecsVmGSXY_igdYTsRZNmHcfZh0Hw&oe=63625751"
+"Cer_Link":"https://i.ibb.co/3yTm79B/tan1021.png"
 }
 },
 {
@@ -30,7 +30,7 @@ var object = [
 "Your_Code_Is":"tan1017",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/313398315_845744366778894_1665630474965022359_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=XIFtFrIQ1NEAX9fuNQ9&_nc_ht=scontent.faly8-2.fna&oh=00_AfAOaDBLvosbZVKWuqA63POftesVKe42OAIfhpC2T7rfwg&oe=6362F623"
+"Cer_Link":"https://i.ibb.co/tmBSNbt/tan1017.png"
 }
 },
 {
@@ -38,7 +38,7 @@ var object = [
 "Your_Code_Is":"tan1016",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/313175411_845743723445625_5361749285932721983_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=LNuU3nGfzekAX_8tz3L&_nc_ht=scontent.faly8-1.fna&oh=00_AfCYLjyyfNM12XFeoKE0nrinY0NR4lTD_nUMJ52d7vhRPQ&oe=6362DEF7"
+"Cer_Link":"https://i.ibb.co/4t7qkVh/tan1016.png"
 }
 },
  
@@ -48,7 +48,7 @@ var object = [
 "Your_Code_Is":"tan1005",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/313325182_845743483445649_5104424039020563721_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=JAgPzepG-88AX9LRhbz&_nc_ht=scontent.faly8-2.fna&oh=00_AfAEpQdXOvwInP1L3B0oVzwEqqE_UBAjzwBCvMslT4uC6w&oe=6363EB17"
+"Cer_Link":"https://i.ibb.co/2hJfgqD/tan1005.png"
 }
 },
 {
@@ -56,7 +56,7 @@ var object = [
 "Your_Code_Is":"tan996",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311784887_845743416778989_6417691512554659971_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=R8YrdVce8PQAX_JRNK9&_nc_ht=scontent.faly8-2.fna&oh=00_AfBS-Kgd0jJxKRERJaAj9lXB1Wl1FBaEngdojpTa7lXydw&oe=63630020"
+"Cer_Link":"https://i.ibb.co/y8tjym7/tan996.png"
 }
 },
 {
@@ -64,7 +64,7 @@ var object = [
 "Your_Code_Is":"tan995",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312478944_845743376778993_7433913791451922935_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=wFKxmv8P9w0AX-d-7pQ&_nc_ht=scontent.faly8-1.fna&oh=00_AfC3LaoE384Wfo27sKr0KO5ClyyS6wL34M6lFSXLBf1MuQ&oe=63640139"
+"Cer_Link":"https://i.ibb.co/Tvwk8Dn/tan995.png"
 }
 },
  
@@ -74,7 +74,7 @@ var object = [
 "Your_Code_Is":"tan992",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312377068_845743253445672_2497466542852703327_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=hnik9xkJLn4AX_opYsu&_nc_ht=scontent.faly8-1.fna&oh=00_AfBR4p3mEoAJlJpRyJjGop96o_4uFehqDaOXPZ2-2CqeJg&oe=63628F91"
+"Cer_Link":"https://i.ibb.co/4RwZLJh/tan992.png"
 }
 },
 {
@@ -82,7 +82,7 @@ var object = [
 "Your_Code_Is":"tan990",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312172358_845743180112346_6889046756425553868_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=mLTXlO7CT_0AX9N7EwA&_nc_ht=scontent.faly8-2.fna&oh=00_AfC8ptMrX-VZ1kHqm5pfJ9FGCLe-bKBCZMEwytKEyCJzTA&oe=6362A3BE"
+"Cer_Link":"https://i.ibb.co/h9qNsqz/tan990.png"
 }
 },
  
@@ -92,7 +92,7 @@ var object = [
 "Your_Code_Is":"tan988",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312487303_845743143445683_3106990548342574300_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=-N5R2Brt6J0AX_pNkTo&_nc_ht=scontent.faly8-1.fna&oh=00_AfCzJdNvAiaV_iMUqSXlLkiMxeU8rHc40VPZRmZY8zwsqg&oe=6363DB5A"
+"Cer_Link":"https://i.ibb.co/2Wc7nBW/tan988.png"
 }
 },
 {
@@ -100,7 +100,7 @@ var object = [
 "Your_Code_Is":"tan986",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312375080_845742936779037_4177995043064169911_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=5X404dZ60MgAX8pnLYK&_nc_ht=scontent.faly8-2.fna&oh=00_AfATNRrni0lJJCFCOAG6gQU5VB6oF9u2rkIN2-5sP2vFRg&oe=63640FB6"
+"Cer_Link":"https://i.ibb.co/f9Q0wN5/tan986.png"
 }
 },
 {
@@ -108,7 +108,7 @@ var object = [
 "Your_Code_Is":"tan985",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311815403_845742750112389_5959001082656549721_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=Z1MILoe0gBQAX8aqbpD&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-2.fna&oh=00_AfBngCYBVyBHc0eR0Fl3fQgjPwr-PU48q6aJMoUPc7Q4FA&oe=63627679"
+"Cer_Link":"https://i.ibb.co/8NVvtLV/tan985.png"
 }
 },
 {
@@ -116,7 +116,7 @@ var object = [
 "Your_Code_Is":"tan980",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312126724_845742426779088_9147894731014832137_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=XF9-JCOFsAMAX9KRLKr&_nc_ht=scontent.faly8-2.fna&oh=00_AfDOQutw3mbNHi6dQfBl-GDQ7EObYanuNy3cy9tLrDKjnw&oe=6363AB43"
+"Cer_Link":"https://i.ibb.co/2KfhcYX/tan980.png"
 }
 },
 {
@@ -124,7 +124,7 @@ var object = [
 "Your_Code_Is":"tan979",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311851829_845742403445757_1548539928769793813_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=75aujqtl0agAX89eUuO&_nc_ht=scontent.faly8-2.fna&oh=00_AfAFKcQAXIeoR2DYhxvs1zxNyD2WZh1t4DruQAGpqIfYDQ&oe=63638D80"
+"Cer_Link":"https://i.ibb.co/T17z3Bx/tan979.png"
 }
 },
 {
@@ -132,7 +132,7 @@ var object = [
 "Your_Code_Is":"tan961",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312869545_845742133445784_395551593435930729_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=jO-KJoLpJiwAX-ttmW6&_nc_ht=scontent.faly8-2.fna&oh=00_AfB9w8xyERM3dlNtOlG1yxMcbt2M2tqXawvdflaUO0QkhA&oe=6363C7A2"
+"Cer_Link":"https://i.ibb.co/9cddyLw/tan961.png"
 }
 },
  
@@ -141,7 +141,7 @@ var object = [
 "Your_Code_Is":"tan952",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312041706_845741650112499_4887071260847891616_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=p4rK8F6DVkYAX-EXsHp&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-2.fna&oh=00_AfBZ9S2pHDuq9XVbhXxxiy4go_ccZVjN_nD3JihtFAQX4g&oe=6363511E"
+"Cer_Link":"https://i.ibb.co/LRhwrxc/tan952.png"
 }
 },
 {
@@ -149,7 +149,7 @@ var object = [
 "Your_Code_Is":"tan949",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312384794_845741606779170_2066362595823062868_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=OSCIeGiwGBkAX8gkb70&_nc_ht=scontent.faly8-2.fna&oh=00_AfC9JUqz0y0PJodzSx_M22uU6OkOkuf6cqAVS5dDUzJSkw&oe=63631964"
+"Cer_Link":"https://i.ibb.co/5xTt8Qq/tan949.png"
 }
 },
 {
@@ -157,7 +157,7 @@ var object = [
 "Your_Code_Is":"tan947",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311788534_845741306779200_4718609969382905642_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=Syvpw-AXvBkAX8jg6xy&_nc_ht=scontent.faly8-1.fna&oh=00_AfA8Yz41e_dMmxZ-Kj169VMMfeEFMMg6y1hR9jxay2yd3w&oe=6363B538"
+"Cer_Link":"https://i.ibb.co/ys92cdq/tan947.png"
 }
 },
 {
@@ -165,8 +165,7 @@ var object = [
 "Your_Code_Is":"tan938",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/313297503_845740690112595_7725227756740906999_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=ucjDVhszNtIAX--49HZ&_nc_ht=scontent.faly8-1.fna&oh=00_AfADd4D7NzdX8_7W_7cRbPnPPw1Na8e4knlP8PlJQkXMvw&oe=63637668"
-}
+"Cer_Link":"https://i.ibb.co/vscH9D9/tan938.png}
 },
   
 {
@@ -174,7 +173,7 @@ var object = [
 "Your_Code_Is":"tan935",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312048881_845740700112594_1236948422038453494_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=_4ZFVAtDh9MAX8e6cnV&_nc_ht=scontent.faly8-2.fna&oh=00_AfDL2Z4rJeww6kcKy1JmxZW4FPJbS9kq-DI1zaMSmiZcbg&oe=6363C5E8"
+"Cer_Link":"https://i.ibb.co/MBrbQ7P/tan935.png"
 }
 },
 {
@@ -182,15 +181,15 @@ var object = [
 "Your_Code_Is":"tan933",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312469598_845740466779284_7372283236009609291_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=LC6lLeWbhawAX8pxz1o&_nc_ht=scontent.faly8-1.fna&oh=00_AfB44BiHEXahKQJQbvDH0BhNdLo6rJx6LJrA_NFVlGds3g&oe=6362D796"
-}
+"Cer_Link":"https://i.ibb.co/8BYpR6p/tan933.png"
+ }
 },
 {
 "Your_Name_Is":"اشرقت محمود ابراهيم",
 "Your_Code_Is":"tan932",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312649769_845740006779330_5713071550715495651_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=wI_neYayL7EAX88Hk09&_nc_ht=scontent.faly8-2.fna&oh=00_AfDDOwDc9U6gKl0V1LX6X1gjiMm6N66CaWT6ozCYgehBVg&oe=636275A0"
+"Cer_Link":"https://i.ibb.co/y0trqVz/tan932.png"
 }
 },
 {
@@ -198,7 +197,7 @@ var object = [
 "Your_Code_Is":"tan929",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311890877_845739993445998_3275494655221612411_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=IT18EZw4qEYAX8ENFf-&_nc_ht=scontent.faly8-2.fna&oh=00_AfBhypvT6NMv8Wg_olhNpFPokd-0N2pA8DENJbvrANYrAw&oe=63632614"
+"Cer_Link":"https://i.ibb.co/whQqCFY/tan929.png"
 }
 },
 {
@@ -206,7 +205,7 @@ var object = [
 "Your_Code_Is":"tan910",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312148707_845739926779338_7620047708163969465_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=j2rbCwfwakgAX-6yNxj&_nc_ht=scontent.faly8-1.fna&oh=00_AfBgHqzY6ouQFpvTDgwrROxV0GlpOPQ8dfFj-9hKXQeJkw&oe=6362E6FB"
+"Cer_Link":"https://i.ibb.co/MptvXRC/tan910.png"
 }
 },
 {
@@ -214,7 +213,7 @@ var object = [
 "Your_Code_Is":"tan908",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312401441_845739340112730_5672839188286310576_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=lt9m3Li3yAwAX848X8U&_nc_ht=scontent.faly8-2.fna&oh=00_AfCJ1sMaw8vt06cjS-AffersQzahEcrNPcXa7d6Obff4jg&oe=63638AAE"
+"Cer_Link":"https://i.ibb.co/PQ4H8ZY/tan908.png"
 }
 },
 {
@@ -222,7 +221,7 @@ var object = [
 "Your_Code_Is":"tan898",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311823834_845739330112731_962139185901369237_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=r6moQsMk1zkAX9hDTDX&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-1.fna&oh=00_AfCJTmXZSl7v6aPkLh1COgypMA_-h6B4oJzdEwWMgjWUig&oe=6363D9B3"
+"Cer_Link":"https://i.ibb.co/Jdbn73d/tan898.png"
 }
 },
 {
@@ -230,7 +229,7 @@ var object = [
 "Your_Code_Is":"tan884",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/313343276_845739303446067_7738977366700512608_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=6E2qe37dzKEAX810cN5&_nc_ht=scontent.faly8-2.fna&oh=00_AfDyUpl3KOfwXOfd_0h7tPaXUukezNlFQ9DXf-Kj7HlrBA&oe=63639826"
+"Cer_Link":"https://i.ibb.co/wdyPxCg/tan884.png"
 }
 },
 {
@@ -238,7 +237,7 @@ var object = [
 "Your_Code_Is":"tan879",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311985137_845738710112793_5011560508792838860_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=KfF77knbPUgAX8tIlIu&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-2.fna&oh=00_AfCHQQmSjospdKEbJFG6n59qcHTDJaP-EGNpDOKcqUg1Yw&oe=63632AB2"
+"Cer_Link":"https://i.ibb.co/ZfbcFLm/tan879.png"
 }
 },
 {
@@ -246,7 +245,7 @@ var object = [
 "Your_Code_Is":"tan868",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312072262_845738683446129_123458527552452053_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=UIYopWwiLdIAX_pKPkd&_nc_ht=scontent.faly8-1.fna&oh=00_AfB_V89vawGo9N1GvFec2NA9y7zswXU-hY7BCF1yGRIb-g&oe=636305D5"
+"Cer_Link":"https://i.ibb.co/s1YdWLr/tan868.png"
 }
 },
   
@@ -255,15 +254,16 @@ var object = [
 "Your_Code_Is":"tan1024",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312649452_845768476776483_171887190086187900_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=n8PIYZJknlcAX8XbcED&_nc_ht=scontent.faly8-2.fna&oh=00_AfBVMlq-vlNgNrM_T2T6J9YzQqekMwFHTVeaf_4rcWpazQ&oe=6363034E"
+"Cer_Link":"https://i.ibb.co/TBzg0gK/tan1024.png"
 }
 },
+
 {
 "Your_Name_Is":"شيماء شحته عبدالعزيز",
 "Your_Code_Is":"tan2071",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312064223_845773433442654_8480947957429428520_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=uORzBDg1cxIAX9rG2OJ&_nc_ht=scontent.faly8-2.fna&oh=00_AfBW8-rjByqENLvh85qforronL5ni3Qst9BSvjHg0v14MA&oe=6363D023"
+"Cer_Link":"https://i.ibb.co/tQYKNWW/tan2071.png"
 }
 },
 {
@@ -271,7 +271,7 @@ var object = [
 "Your_Code_Is":"tan2041",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311983717_845773286776002_3864728152408410485_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=iAWrnjiluOMAX96AmeF&_nc_ht=scontent.faly8-2.fna&oh=00_AfB5SwhCz8vpXhZ1VC7Kn7SzIexwXv6mWaAp6ohOb5AIVw&oe=63639BB8"
+"Cer_Link":"https://i.ibb.co/ZzRJnKf/tan2041.png"
 }
 },
 {
@@ -279,7 +279,7 @@ var object = [
 "Your_Code_Is":"tan2017",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312580431_845773050109359_2882012544800406052_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=OewGayatd7gAX8qIXIF&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-1.fna&oh=00_AfAQkaxV7VLW-PScPuvkZ7A3zyX-ktJD78LGPgXfoMFxDQ&oe=6363C23D"
+"Cer_Link":"https://i.ibb.co/c2kDZjF/tan2017.png"
 }
 },
 {
@@ -287,7 +287,7 @@ var object = [
 "Your_Code_Is":"tan2016",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312419824_845773063442691_4773207722220075721_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=-cfWZ8m3ZooAX-Jw3Fd&_nc_ht=scontent.faly8-2.fna&oh=00_AfBf_mTeu5qI3rtLPm8QGVVs6Vhci46mdBUyOuyTMorKUA&oe=636362F8"
+"Cer_Link":"https://i.ibb.co/v1m5cV0/tan2016.png"
 }
 },
 {
@@ -295,7 +295,7 @@ var object = [
 "Your_Code_Is":"tan2014",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312494036_845772516776079_5709967378985280181_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=-37zLktoqkwAX-TEK4S&_nc_ht=scontent.faly8-1.fna&oh=00_AfBM7T2VxYzarhAcur7B4UF5fZzVw1TVMF3rehzwCT_l2Q&oe=6363555F"
+"Cer_Link":"https://i.ibb.co/LrnRWpf/tan2014.png"
 }
 },
 {
@@ -303,7 +303,7 @@ var object = [
 "Your_Code_Is":"tan2013",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311984786_845772456776085_6795422198715762741_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=SyT9uW3nsRcAX_ekStE&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-1.fna&oh=00_AfBFbzaVghFDGJOhrF2PipZYtSfulj-I57-TZozbUKi55A&oe=6362F829"
+"Cer_Link":"https://i.ibb.co/tX2FcqG/tan2013.png"
 }
 },
 {
@@ -311,7 +311,7 @@ var object = [
 "Your_Code_Is":"tan2006",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311592302_845772453442752_5543253402218398119_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=4Gk3VCECa3YAX_LyEf1&_nc_ht=scontent.faly8-2.fna&oh=00_AfDCt42Uh96e8P3frsRIRbN6E1fM_GsCoFR6ozV9pyLF6Q&oe=6363F1BC"
+"Cer_Link":"https://i.ibb.co/cgGRBpH/tan2006.png"
 }
 },
 {
@@ -319,7 +319,7 @@ var object = [
 "Your_Code_Is":"tan2005",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312646442_845772213442776_8578980805018937143_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=2pTaSuPOzF4AX9XNh-d&_nc_ht=scontent.faly8-1.fna&oh=00_AfA3o6ngDySGh_Hgu8NLPBqGf7rW48GFAIydgi5lJErWQw&oe=6363E9C5"
+"Cer_Link":"https://i.ibb.co/5vM6R7t/tan2005.png"
 }
 },
   
@@ -328,7 +328,7 @@ var object = [
 "Your_Code_Is":"tan2004",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312055607_845771940109470_1685139348706183760_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=f4rCV29gA2EAX_UanIO&_nc_ht=scontent.faly8-2.fna&oh=00_AfBHjYPVVLuCGSv4_cfBJXqSmnm7w7ZSPv8fNX156yvMxw&oe=6363B6B1"
+"Cer_Link":"https://i.ibb.co/PWsTCtS/tan2004.png"
 }
 },
 {
@@ -336,7 +336,7 @@ var object = [
 "Your_Code_Is":"tan2000",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312172216_845771926776138_3695857001023983904_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=ukEQLpN9sH4AX_k1bj7&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-2.fna&oh=00_AfC39J1yoKrGb8k0vjo_PmfU-3jF59CBx-FBB9WmIFyCrw&oe=6362CADE"
+"Cer_Link":"https://i.ibb.co/bBFpwwH/tan2000.png"
 }
 },
   
@@ -345,7 +345,7 @@ var object = [
 "Your_Code_Is":"tan1099",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312294381_845771186776212_1614976004267683056_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=sZBuQ3-IzgoAX8CDlU3&_nc_ht=scontent.faly8-2.fna&oh=00_AfAV8yNVZ_TnmT2tL9C9vWs8g7LO7wJ6SftY0mgDNInu7A&oe=63628F63"
+"Cer_Link":"https://i.ibb.co/xJFFWFr/tan1099.png"
 }
 },
 {
@@ -353,7 +353,7 @@ var object = [
 "Your_Code_Is":"tan1097",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311792046_845771040109560_7067715920982373908_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=9krkRQYaNKcAX9vSAYp&_nc_ht=scontent.faly8-1.fna&oh=00_AfB8Z48IgBkpWqD_ZvajgjgKOKs2xDupzoNinhUZC9vsHA&oe=6363864C"
+"Cer_Link":"https://i.ibb.co/7bYR6Cb/tan1097.png"
 }
 },
 {
@@ -361,7 +361,7 @@ var object = [
 "Your_Code_Is":"tan1091",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/311879235_845770400109624_2414966765869837727_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=HXQ33AoRuxcAX-fcdK6&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-2.fna&oh=00_AfBvDHDP7WKGXJFlCavMB5dnxXjpeBF1XXygrDYJA11G8A&oe=6364224A"
+"Cer_Link":"https://i.ibb.co/wZqsbBf/tan1091.png"
 }
 },
 {
@@ -369,7 +369,7 @@ var object = [
 "Your_Code_Is":"tan1090",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312378495_845770403442957_6043537926487398431_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=eSwY3rBpmXAAX-J-JHc&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-1.fna&oh=00_AfCDxQDQxYKb86dLzvFmtF_rX6wxE_XCGSCsBaM35ndgVw&oe=6362E1BD"
+"Cer_Link":"https://i.ibb.co/N1zZxZz/tan1090.png"
 }
 },
 {
@@ -377,7 +377,7 @@ var object = [
 "Your_Code_Is":"tan1078",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312048842_845769936776337_4749704911194095921_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=iNhZYEcCOVgAX8EWseX&_nc_ht=scontent.faly8-1.fna&oh=00_AfCIDH0xh5ApaIBNGQCIePBy91t7Y1vpKfdsvRdO2gV1eA&oe=6363EC62"
+"Cer_Link":"https://i.ibb.co/QPmxfmz/tan1078.png"
 }
 },
 {
@@ -385,7 +385,7 @@ var object = [
 "Your_Code_Is":"tan1055",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/313307813_845769310109733_5561929796348590123_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=xxNA4sR0Y6QAX8coZSo&_nc_ht=scontent.faly8-2.fna&oh=00_AfDc9yAHnWeX-H7T1GuaBe467PEKcDTGqgkah7AFaoaYjg&oe=6363AD9B"
+"Cer_Link":"https://i.ibb.co/GRMb0Xp/tan1055.png"
 }
 },
 {
@@ -393,7 +393,7 @@ var object = [
 "Your_Code_Is":"tan1047",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311988173_845769180109746_9001298467111133553_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=KcuPwPCXN3YAX92OZWm&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-1.fna&oh=00_AfAufod7aVoIlS9VNH8MX-7Oj-uvgmVisgsNVKce7fuWsQ&oe=6363256F"
+"Cer_Link":"https://i.ibb.co/jTVGh1g/tan1047.png"
 }
 },
 {
@@ -401,7 +401,7 @@ var object = [
 "Your_Code_Is":"tan1044",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/313110467_845768890109775_8106894534417347593_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=XA5wpHLwimgAX94cMBf&_nc_ht=scontent.faly8-1.fna&oh=00_AfC76V6ajm_fXyf3VS5E85LC5M3PWq3NNyvW3cZUwip3dg&oe=636356A3"
+"Cer_Link":"https://i.ibb.co/gS6yTkW/tan1044.png"
 }
 },
 {
@@ -409,7 +409,7 @@ var object = [
 "Your_Code_Is":"tan1039",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/312048132_845768900109774_8101082596245574029_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=c3TpclIyzNQAX_J8She&_nc_oc=AQkY3sq4akrQCiyyCSGvnlP7FUjQX0ClmY3y8e_xs7ZYhqKxCGNj28aoq79Q3TooU78&_nc_ht=scontent.faly8-2.fna&oh=00_AfCUWWn2P0ZD3_1LQYJy7gZD8hsIjLuz7kI69EtDRaNkgg&oe=63642673"
+"Cer_Link":"https://i.ibb.co/27vYVX5/tan1039.png"
 }
 },
 {
@@ -417,7 +417,7 @@ var object = [
 "Your_Code_Is":"tan1038",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311938040_845768853443112_8238059303909003820_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=mCJ-xt5b6YgAX80_KET&_nc_ht=scontent.faly8-1.fna&oh=00_AfBe1t2RXboRuB0RZ-lmZMpEQdINIqeYWpMn98FQ0KDaVw&oe=6362B707"
+"Cer_Link":"https://i.ibb.co/SVLJLCg/tan1038.png"
 }
 },
 {
@@ -425,7 +425,7 @@ var object = [
 "Your_Code_Is":"tan1034",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/313399549_845768496776481_2141702597005043088_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=BJEQQ0GUlZgAX9s75sY&_nc_ht=scontent.faly8-2.fna&oh=00_AfBqgHYwARDA-de97xIkEKgQ-airu7CeCNGlrWvXJNI8Xg&oe=636278BC"
+"Cer_Link":"https://i.ibb.co/SscN2GN/tan1034.png"
 }
 },
 {
@@ -433,7 +433,7 @@ var object = [
 "Your_Code_Is":"tan1033",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/313067664_845768493443148_8930920660823265524_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=p7reR9ZETWkAX-FtZA1&_nc_ht=scontent.faly8-1.fna&oh=00_AfAJlSSaSpiS7n70S7Lnv2tl7Bh_BsBR8JFM-KfAJEqLcg&oe=6363FD34"
+"Cer_Link":"https://i.ibb.co/pz4gSYS/tan1033.png"
 }
 },
   
@@ -442,7 +442,7 @@ var object = [
 "Your_Code_Is":"tan1098",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311921564_845771030109561_8366317139600175087_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=8ICPJsTyk_0AX-1kTX7&_nc_ht=scontent.faly8-1.fna&oh=00_AfAvxz35jfl6nO5OodtuL-Fh-sK94JLxyP8XdLmGfFp3Zw&oe=6363C090"
+"Cer_Link":"https://i.ibb.co/S7TNPqy/tan1098.png"
 }
 },
 {
@@ -450,7 +450,7 @@ var object = [
 "Your_Code_Is":"tan1092",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/313200943_845770580109606_1036726811301392683_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=05eI51VYQ6QAX-UfQjr&_nc_ht=scontent.faly8-1.fna&oh=00_AfCj01Ez6IafJPmQ6fEvuPiP-ZimkCg7Wuel9NPvByeagA&oe=6363361A"
+"Cer_Link":"https://i.ibb.co/mCfLnWM/tan1092.png"
 }
 },
 {
@@ -458,7 +458,7 @@ var object = [
 "Your_Code_Is":"tan1079",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312621078_845770206776310_885125839447839452_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=Tq2W6igaUh8AX86jzdS&tn=qFTWZjEWt9pqxDHM&_nc_ht=scontent.faly8-1.fna&oh=00_AfAUd_Ye3kj9AASVxWJG05nsVoKVCNsEsICCDjQ2hyZDGQ&oe=63639A24"
+"Cer_Link":"https://i.ibb.co/P9mkFTP/tan1079.png"
 }
 },
 {
@@ -466,7 +466,7 @@ var object = [
 "Your_Code_Is":"tan1067",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/311738744_845769953443002_6232862470204829937_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=Siz5_W2sjR8AX-AJ29E&_nc_ht=scontent.faly8-1.fna&oh=00_AfDmPysW0mR8e75Lyz5o-Ty8RqF2JMNS_mPP-SeZL4WUGg&oe=6363A67A"
+"Cer_Link":"https://i.ibb.co/JFFrX0J/tan1067.png"
 }
 },
 {
@@ -474,7 +474,7 @@ var object = [
 "Your_Code_Is":"tan1056",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312809538_845769736776357_3158178841917089760_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=gQczqlvFGUUAX8fxE5L&_nc_ht=scontent.faly8-1.fna&oh=00_AfB9kcGZDoCBjpDeyEdM2RHupkw-9pvMemDpTTsPj6sSsQ&oe=636376FC"
+"Cer_Link":"https://i.ibb.co/VHrDQrh/tan1056.png"
 }
 },
 {
@@ -482,11 +482,39 @@ var object = [
 "Your_Code_Is":"tan1054",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/312707507_845769293443068_7347426958846830925_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=E62Nl64tlj4AX8NPt-a&_nc_ht=scontent.faly8-1.fna&oh=00_AfDryVkBxJ796dRUW6X9GS1ip2H1roW5jPMHoT5fXxt27A&oe=63633407"
+"Cer_Link":"https://i.ibb.co/GP1LvXW/tan1054.png"
 }
 },
  
-  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 {
 "Your_Name_Is":"دنيا حامد محمد حامد",
 "Your_Code_Is":"tan972",
