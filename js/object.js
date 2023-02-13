@@ -48,7 +48,7 @@ var object = [
 "Your_Code_Is":"tan1005",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://i.ibb.co/2hJfgqD/tan1005.png"
+"Cer_Link":"https://i.ibb.co/2hJfgqD/tan1005.png]
 }
 },
 {
