@@ -48,7 +48,7 @@ var object = [
 "Your_Code_Is":"tan1005",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://i.ibb.co/2hJfgqD/tan1005.png]
+"Cer_Link":"https://i.ibb.co/2hJfgqD/tan1005.png"
 }
 },
 {
@@ -1523,7 +1523,8 @@ var object = [
 "Your_Code_Is":"tan1026",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://i.ibb.co/yfsj2rx/tan1026.png"}
+"Cer_Link":"https://i.ibb.co/yfsj2rx/tan1026.png"
+}
 },
 {
 "Your_Name_Is":"اشرقت ايمن عبدالله ",
@@ -1538,7 +1539,8 @@ var object = [
 "Your_Code_Is":"tan909",
 "Department":"Medical Termonology",
 "_source":{
-"Cer_Link":"https://i.ibb.co/2qwjqhY/tan909.png"}
+"Cer_Link":"https://i.ibb.co/2qwjqhY/tan909.png"
+}
 },
   
 {
